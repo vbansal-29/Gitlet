@@ -1,1 +1,2 @@
-A lightweight version-control system using Java and Python that mimics Github Functionality - Vishal Bansal
+A lightweight version-control system that mimics Github Functionality using Java and Python.
+- Vishal Bansal
